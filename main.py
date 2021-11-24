@@ -1,5 +1,5 @@
 import tkinter as tk
-# Компилляция проекта pyinstaller.exe --onefile --noconsole --icon=ico.ico main.py
+# Компилляция проекта: pyinstaller.exe --onefile --noconsole --icon=ico.ico main.py
 
 # Настройки главного окна
 mainwindow = tk.Tk()
